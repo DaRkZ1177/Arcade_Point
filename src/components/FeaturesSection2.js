@@ -24,8 +24,8 @@ const FeaturesSection2 = () => {
           >
             <h3 className='h3 mb-6'>Detailed Statistics</h3>
             <p className='text-gray mb-8'>
-              View all mining related information in realtime, at any point at
-              any location and decide which polls you want to mine in.
+              View all crypto related information in realtime, at any point at
+              any location and decide which one you want to convert in.
             </p>
             <button className='btn px-8 mb-6 lg:mb-0'>Learn more</button>
           </div>

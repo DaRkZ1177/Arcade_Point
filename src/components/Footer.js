@@ -38,12 +38,12 @@ const Footer = () => {
                 </li>
                 <li>
                   <a className='hover:text-blue transition' href='#'>
-                    Products
+                    About
                   </a>
                 </li>
                 <li>
                   <a className='hover:text-blue transition' href='#'>
-                    About
+                    Calculator
                   </a>
                 </li>
                 <li>
@@ -64,7 +64,7 @@ const Footer = () => {
               <ul className='space-y-4 text-gray'>
                 <li>
                   <a className='hover:text-blue transition' href='#'>
-                    Download Whitepapper
+                    Download Whitepaper
                   </a>
                 </li>
                 <li>

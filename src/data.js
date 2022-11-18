@@ -5,7 +5,7 @@ import LitecoinImg from './assets/img/litecoin.png';
 
 export const navData = [
   {
-    name: 'Products',
+    name: 'About',
     href: '#',
   },
   {
@@ -13,7 +13,7 @@ export const navData = [
     href: '#',
   },
   {
-    name: 'About',
+    name: 'Calculator',
     href: '#',
   },
   {

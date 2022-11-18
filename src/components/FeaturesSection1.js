@@ -15,7 +15,7 @@ const FeaturesSection1 = () => {
         >
           <h3 className='h3 mb-6'>Withdraw Anytime</h3>
           <p className='text-gray mb-8'>
-            Get full statistic about the mmarket price of the currency and
+            Get full statistic about the market price of the currency and
             the exchange rate when converting to other game currency.
           </p>
           <button className='btn px-8'>Learn more</button>

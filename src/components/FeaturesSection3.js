@@ -14,11 +14,10 @@ const FeaturesSection3 = () => {
           data-aos-offset='400'
         >
           <h3 className='h3 mb-6'>
-            Grow your profit and track your investments
+            View Real-time value of various currencies.
           </h3>
           <p className='text-gray mb-8 max-w-[408px]'>
-            Use advanced analytical tools. Clear TradingView charts let you
-            track current and historical profit investments.
+          View the current values of various digital currencies and any changes to them.
           </p>
           <button className='btn px-8'>Learn more</button>
         </div>

@@ -29,7 +29,7 @@ Convert Game Currencies to Block chain and vise versa.
 
 # Demo
 
-<img src="assets\demo1.png">
+<img src="assets\demo3.png">
 <img src="assets\demo2.png">
 
 <br>
@@ -77,7 +77,7 @@ git clone https://github.com/D3FaltXD/kabab-and-kurry.git
 
 - <div><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></div>
 
-- <div><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  Bootstrap  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></div>
+- <div><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  Tailwind  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-plain-wordmark.svg" alt="tailwind" width="40" height="40"/> </a></div>
 
 <br>
 <br>

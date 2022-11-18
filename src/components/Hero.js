@@ -32,7 +32,7 @@ const Hero = () => {
               data-aos='fade-down'
               data-aos-delay='500'
             >
-              Most efficient and secure platform for converting any virtual currency.
+              Want to avoid wasting in-game currencies? Transform it
             </h1>
             <p
               className='max-w-[440px] leading-relaxed mb-8'

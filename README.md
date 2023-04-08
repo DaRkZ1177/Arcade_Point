@@ -50,20 +50,20 @@ Convert Game Currencies to Block chain and vise versa.
 
 # Installation
 
-To install **Kurry and Kabab**, follow these steps:
+To install Arcade Point, follow these steps:
 
-> [Fork the repository](https://github.com/D3FaltXD/kabab-and-kurry/fork) 
+> [Fork the repository]
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/D3FaltXD/kabab-and-kurry.git
+sudo git clone 
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/D3FaltXD/kabab-and-kurry.git
+git clone 
 ```
 
 <br>

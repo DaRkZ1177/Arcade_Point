@@ -52,18 +52,18 @@ Convert Game Currencies to Block chain and vise versa.
 
 To install Arcade Point, follow these steps:
 
-> [Fork the repository]
+> [Fork the repository] (https://github.com/DaRkZ1177/Arcade_Point)
 
 Linux and macOS:
 
 ```bash
-sudo git clone 
+sudo git clone https://github.com/DaRkZ1177/Arcade_Point
 ```
 
 Windows:
 
 ```bash
-git clone 
+git clone https://github.com/DaRkZ1177/Arcade_Point
 ```
 
 <br>
